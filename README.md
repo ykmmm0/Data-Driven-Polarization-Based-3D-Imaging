@@ -282,7 +282,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   [Paper](https://arxiv.org/abs/2203.13458) | [Code](https://github.com/akshatdave/pandora)
 
 
-  * Li, C.
+* Li, C.
   *NeISF: Neural Incident Stokes Field for Geometry and Material Estimation.*
   CVPR, 2024.
   [Paper](https://arxiv.org/abs/2311.13187) | [Code](https://github.com/sony/NeISF)
