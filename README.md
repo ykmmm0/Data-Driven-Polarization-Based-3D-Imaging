@@ -9,34 +9,17 @@ We categorize existing methods based on the **dominant source of constraints**, 
 
 ### 🔵 Physics-based Methods
 
-Methods that explicitly model the physical formation of polarization:
+* **Advanced reflectance modeling**
+* **Physically guided sensing fusion**
 
-* **Reflectance-driven modeling**
-  Based on surface reflectance properties (e.g., Fresnel theory, BRDF, microfacet models)
-
-* **Photometric-constrained modeling**
-  Incorporates illumination, intensity, or spectral cues
-
-* **Geometric-prior modeling**
-  Introduces shape priors or structural constraints to resolve ambiguities
-
-* **Physics-guided sensing fusion**
-  Combines polarization with other sensing modalities (e.g., stereo, active illumination)
 
 ---
 
 ### 🟢 Data-driven Methods
 
-Methods that leverage learning-based frameworks:
-
-* **Physics-informed learning**
-  Embeds physical priors into network inputs, architectures, or loss functions
-
-* **Pure learning-based methods**
-  Relies primarily on data-driven mappings with minimal physical modeling
-
-* **Neural implicit reconstruction**
-  Uses implicit neural representations (e.g., NeRF/SDF) for joint geometry and appearance reconstruction
+* **Physics-informed Learning**
+* **Learning-based Polarization 3D Imaging**
+* **Multimodal Learning**
 
 ---
 
@@ -54,7 +37,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 # 🔵 1. Physics-based Methods
 
-## 1.1 Reflectance-driven Modeling
+## 1.1 Advanced reflectance modeling
 
 * Rahmann, S.
   *Reconstruction of Specular Surfaces Using Polarization Imaging.*
@@ -122,7 +105,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ---
 
-## 1.2 Photometric-constrained Modeling
+## Photometric-constrained Modeling
 
 * Ichikawa, T.
   *Shape from Sky: Polarimetric Normal Recovery Under Natural Illumination.*
@@ -151,7 +134,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ---
 
-## 1.3 Geometric-prior Modeling
+## Geometric-prior Modeling
 
 * Han, P.
   *Accurate Passive 3D Polarization Face Reconstruction Under Complex Conditions.*
@@ -175,7 +158,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ---
 
-## 1.4 Physics-guided Sensing Fusion
+## 1.2 Physically guided sensing fusion
 
 ### Active
 
