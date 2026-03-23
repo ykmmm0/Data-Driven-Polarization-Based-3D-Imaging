@@ -1,19 +1,48 @@
 # Polarization-based 3D Imaging: Paper Collection
 
 ---
-📌 Taxonomy Overview
 
-We categorize methods based on the dominant source of constraints:
 
-Physics-based methods
-Reflectance-driven modeling
-Photometric-constrained modeling
-Geometric-prior modeling
-Physics-guided sensing fusion
-Data-driven methods
-Physics-informed learning
-Pure learning-based methods
-Neural implicit reconstruction
+## 📌 Taxonomy Overview
+
+We categorize existing methods based on the **dominant source of constraints**, ensuring a consistent and non-overlapping classification across different paradigms.
+
+### 🔵 Physics-based Methods
+
+Methods that explicitly model the physical formation of polarization:
+
+* **Reflectance-driven modeling**
+  Based on surface reflectance properties (e.g., Fresnel theory, BRDF, microfacet models)
+
+* **Photometric-constrained modeling**
+  Incorporates illumination, intensity, or spectral cues
+
+* **Geometric-prior modeling**
+  Introduces shape priors or structural constraints to resolve ambiguities
+
+* **Physics-guided sensing fusion**
+  Combines polarization with other sensing modalities (e.g., stereo, active illumination)
+
+---
+
+### 🟢 Data-driven Methods
+
+Methods that leverage learning-based frameworks:
+
+* **Physics-informed learning**
+  Embeds physical priors into network inputs, architectures, or loss functions
+
+* **Pure learning-based methods**
+  Relies primarily on data-driven mappings with minimal physical modeling
+
+* **Neural implicit reconstruction**
+  Uses implicit neural representations (e.g., NeRF/SDF) for joint geometry and appearance reconstruction
+
+---
+
+📌 **Note:**
+Some methods may involve multiple cues (e.g., reflectance + geometry), but each method is categorized according to its **dominant modeling principle** to avoid ambiguity.
+
 
 
 # 🔵 1. Physics-based Methods
