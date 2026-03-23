@@ -217,9 +217,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ## 2.1 Physics-informed Learning
 
-* Ba, Y.
-  *Deep Shape from Polarization.*  
-  ECCV, 2020.  
+* Ba, Y.  *Deep Shape from Polarization.*    ECCV, 2020.  
   [Paper](https://arxiv.org/abs/2007.10824) | [Code](https://github.com/ba-ying/deepsfp)
 
 * *Wu, X.
