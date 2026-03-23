@@ -307,7 +307,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Chen, G.
   *PISR: Polarimetric Neural Implicit Surface Reconstruction.*
   ECCV, 2024.
-  [Paper](PISR: Polarimetric Neural Implicit Surface Reconstruction.) | [Code](https://github.com/GCChen97/PISR)
+  [Paper](https://arxiv.org/abs/2409.14331) | [Code](https://github.com/GCChen97/PISR)
 
 
 * Cao, X.
