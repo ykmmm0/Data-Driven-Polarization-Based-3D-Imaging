@@ -236,35 +236,35 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 * Lei, C.    *Shape from Polarization for Complex Scenes in the Wild.*    CVPR, 2022.    [Paper](https://arxiv.org/abs/2112.11377) | [Code](https://arxiv.org/abs/2112.11377)
 
-* Huang, T.    *Learning Accurate 3D Shape Based on Stereo Polarimetric Imaging.*    CVPR, 2023.    [Paper] | [Code]
+* Huang, T.    *Learning Accurate 3D Shape Based on Stereo Polarimetric Imaging.*    CVPR, 2023.    [Paper](https://ieeexplore.ieee.org/document/10203426) | [Code]
 
-* Peng, Y.    *Multi-receptive Field Interaction Network for Shape from Polarization.*    SCIENCE CHINA Information Sciences, 2025.    [Paper] | [Code]
+* Peng, Y.    *Multi-receptive Field Interaction Network for Shape from Polarization.*    SCIENCE CHINA Information Sciences, 2025.    [Paper](https://link.springer.com/article/10.1007/s11432-024-4212-2) | [Code]
 
-* Wu, X.    *Deep Learning-based Polarization 3D Imaging Method for Underwater Targets.*    Optics Express, 2025.    [Paper] | [Code]
+* Wu, X.    *Deep Learning-based Polarization 3D Imaging Method for Underwater Targets.*    Optics Express, 2025.    [Paper](https://doi.org/10.1364/OE.541298) | [Code]
 
-* Li, K.  *SfP-underwater: Attention-based Shape from Polarization for Underwater Scattering Environments.*    Optics and Laser Technology, 2025.    [Paper] | [Code]
+* Li, K.  *SfP-underwater: Attention-based Shape from Polarization for Underwater Scattering Environments.*    Optics and Laser Technology, 2025.    [Paper](https://www.sciencedirect.com/science/article/pii/S0030399225011363) | [Code]
 
 ---
 
 ###  Multi-stage Learning
 
-* Li, X.    *Multi-target Distortion Correction in 3D Shape from Polarization Using Deep Neural Networks.*    Optics Letters, 2023.    [Paper] | [Code]
+* Li, X.    *Multi-target Distortion Correction in 3D Shape from Polarization Using Deep Neural Networks.*    Optics Letters, 2023.    [Paper](https://doi.org/10.1364/OL.499161) | [Code]
 
-* Li, C.  *Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation.*    ECCV (arXiv), 2024.    [Paper](https://arxiv.org/abs/2407.08149) | [Code]
+* Li, C.  *Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation.*    ECCV (arXiv), 2024.    [Paper](https://arxiv.org/abs/2407.08149) | [Code](https://github.com/ligoudaner377/polarized_inverse_scattering)
 
 ---
 
 ## 2.3 Multimodal Learning
 
-* Tian, C.    *DPS-Net: Deep Polarimetric Stereo Depth Estimation.*    ICCV, 2023.    [Paper] | [Code]
+* Tian, C.    *DPS-Net: Deep Polarimetric Stereo Depth Estimation.*    ICCV, 2023.    [Paper](https://ieeexplore.ieee.org/document/10377108) | [Code](https://github.com/Ethereal-Tian/DPS-Net)
 
-* Muglikar, M.  *Event-based Shape from Polarization.*    CVPR, 2023.  [Paper](https://arxiv.org/abs/2301.06855) | [Code]
+* Muglikar, M.  *Event-based Shape from Polarization.*    CVPR, 2023.  [Paper](https://arxiv.org/abs/2301.06855) | [Code](https://github.com/uzh-rpg/ESfP)
 
-* Ikemura, K.   *Robust Depth Enhancement via Polarization Prompt Fusion Tuning.*    arXiv, 2024.    [Paper](https://arxiv.org/abs/2404.04318) | [Code]
+* Ikemura, K.   *Robust Depth Enhancement via Polarization Prompt Fusion Tuning.*    arXiv, 2024.    [Paper](https://lastbasket.github.io/PPFT/) | [Code](https://lastbasket.github.io/PPFT/)
 
-* Scheuble, D.    *Polarization Wavefront LiDAR.*    CVPR, 2024.    [Paper] | [Code]
+* Scheuble, D.    *Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts.*    CVPR, 2024.    [Paper](https://ieeexplore.ieee.org/document/10654846) | [Code](https://github.com/princeton-computational-imaging/PolLidar)
 
-* Tian, X.    *High Quality 3D Reconstruction Based on Fusion of Polarization Imaging and Binocular Stereo Vision.*    Information Fusion, 2022.    [Paper] | [Code]
+* Tian, X.    *High Quality 3D Reconstruction Based on Fusion of Polarization Imaging and Binocular Stereo Vision.*    Information Fusion, 2022.    [Paper](https://www.sciencedirect.com/science/article/pii/S1566253521001421) | [Code]
   
 ---
 
@@ -277,25 +277,25 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Dave, A.
   *PANDORA: Polarization-Aided Neural Decomposition of Radiance.*
   ECCV, 2022.
-  [Paper](https://arxiv.org/abs/2203.13458) | [Code]
+  [Paper](https://arxiv.org/abs/2203.13458) | [Code](https://github.com/akshatdave/pandora)
 
 
   * Li, C.
   *NeISF: Neural Incident Stokes Field for Geometry and Material Estimation.*
   CVPR, 2024.
-  [Paper](https://arxiv.org/abs/2311.13187) | [Code]
+  [Paper](https://arxiv.org/abs/2311.13187) | [Code](https://github.com/sony/NeISF)
 
 
 * Wu, B.
   *Glossy Object Reconstruction with Cost-effective Polarized Acquisition.*
   CVPR, 2025.
-  [Paper] | [Code]
+  [Paper](https://arxiv.org/abs/2504.07025) | [Code]
 
 
 * Shao, M.
   *Polarimetric Inverse Rendering for Transparent Shapes Reconstruction.*
   IEEE Transactions on Multimedia, 2024.
-  [Paper] | [Code]
+  [Paper](https://ieeexplore.ieee.org/abstract/document/10454013) | [Code](https://github.com/shaomq2187/TransPIR)
 
 
 ## 3.2 Geometry-based polarization implicit reconstruction
@@ -305,26 +305,26 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Chen, G.
   *PISR: Polarimetric Neural Implicit Surface Reconstruction.*
   ECCV, 2024.
-  [Paper] | [Code]
+  [Paper](PISR: Polarimetric Neural Implicit Surface Reconstruction.) | [Code](https://github.com/GCChen97/PISR)
 
 
 * Cao, X.
   *Multi-view azimuth stereo via tangent space consistency.*
-  2023.
-  [Paper] | [Code]
+  CVPR, 2023.
+  [Paper](https://arxiv.org/abs/2303.16447) | [Code](https://github.com/xucao-42/mvas)
   
 
 
 * Li, Y.
   *GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects.*
   ICLR, 2024.
-  [Paper](https://arxiv.org/abs/2403.11899) | [Code]
+  [Paper](https://arxiv.org/abs/2403.11899) | [Code](https://github.com/yukiumi13/GNeRP)
 
 
 * Cao, J.
   *NeRF-based polarimetric multi-view stereo.*
   Pattern Recognition, 2025.
-  [Paper] | [Code]
+  [Paper](https://www.sciencedirect.com/science/article/pii/S0031320324007878) | [Code]
 
 
 ## 3.3 Hybrid polarization implicit reconstruction
@@ -342,7 +342,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Li, C.
   *NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering.*
   2025.
-  [Paper](https://arxiv.org/abs/2411.10189) | [Code]
+  [Paper](https://arxiv.org/abs/2411.10189) | [Code](https://github.com/sony/NeISFpp)
 
   
 
