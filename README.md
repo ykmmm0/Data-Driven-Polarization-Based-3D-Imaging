@@ -217,53 +217,26 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ## 2.1 Physics-informed Learning
 
-* Ba, Y.  *Deep Shape from Polarization.*    ECCV, 2020.  
-  [Paper](https://arxiv.org/abs/2007.10824) | [Code](https://github.com/ba-ying/deepsfp)
+* Ba, Y.  *Deep Shape from Polarization.*    ECCV, 2020.    [Paper](https://arxiv.org/abs/2007.10824) | [Code](https://github.com/ba-ying/deepsfp)
 
-* *Wu, X.
-  *Three Dimensional Shape Reconstruction via Polarization Imaging and Deep Learning.*  
-  Sensors, 2023.  
-  [Paper](https://www.mdpi.com/1424-8220/23/10/4592) | [Code]
+* *Wu, X.  *Three Dimensional Shape Reconstruction via Polarization Imaging and Deep Learning.*    Sensors, 2023.    [Paper](https://www.mdpi.com/1424-8220/23/10/4592) | [Code]
 
 * Zou, S. 
-  *3D Human Shape Reconstruction from a Polarization Image.*  
-  ECCV, 2020.  
-  [Paper](https://arxiv.org/abs/2008.02068) | [Code]
+  *3D Human Shape Reconstruction from a Polarization Image.*    ECCV, 2020.    [Paper](https://arxiv.org/abs/2008.02068) | [Code]
+  
+* Zou, S.  *Human Pose and Shape Estimation from Polarization Images.*    IEEE TMM, 2023.    [Paper](https://ieeexplore.ieee.org/document/10006144) | [Code]
 
-* Zou, S.
-  *Human Pose and Shape Estimation from Polarization Images.*  
-  IEEE TMM, 2023.  
-  [Paper](https://ieeexplore.ieee.org/document/10006144) | [Code]
+* Deschaintre, V.  *Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition.*    CVPR, 2021.    [Paper](https://arxiv.org/abs/2104.00674) | [Code]
 
-* Deschaintre, V.  
-  *Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition.*  
-  CVPR, 2021.  
-  [Paper](https://arxiv.org/abs/2104.00674) | [Code]
+* Blanchon, M.   *P2D: A Self-supervised Method for Depth Estimation from Polarimetry.*    ICPR, 2021.    [Paper](https://arxiv.org/abs/2011.13239) | [Code]
 
-* Blanchon, M. 
-  *P2D: A Self-supervised Method for Depth Estimation from Polarimetry.*  
-  ICPR, 2021.  
-  [Paper](https://arxiv.org/abs/2011.13239) | [Code]
+* Shao, M.  *Transparent Shape from a Single View Polarization Image.*    ICCV, 2023.  [Paper] | [Code]
 
-* Shao, M. 
-  *Transparent Shape from a Single View Polarization Image.*  
-  ICCV, 2023.  
-  [Paper] | [Code]
+* Wang, B.   *Shape from Polarization via a Physical Prior-based Deep Fusion Network with Ambiguous Surface Normals.*    Optics Express, 2025.    [Paper] | [Code]
 
-* Wang, B. 
-  *Shape from Polarization via a Physical Prior-based Deep Fusion Network with Ambiguous Surface Normals.*  
-  Optics Express, 2025.  
-  [Paper] | [Code]
+* Liu, R.    *Fusion-based High-quality Polarization 3D Reconstruction.*    Optics and Lasers in Engineering, 2023.    [Paper] | [Code]
 
-* Liu, R.  
-  *Fusion-based High-quality Polarization 3D Reconstruction.*  
-  Optics and Lasers in Engineering, 2023.  
-  [Paper] | [Code]
-
-* Guo, H.  
-  *SfPUEL: Shape from Polarization under Unknown Environment Light.*  
-  NeurIPS, 2024.  
-  [Paper] | [Code]
+* Guo, H.    *SfPUEL: Shape from Polarization under Unknown Environment Light.*    NeurIPS, 2024.    [Paper] | [Code]
 
 ---
 
@@ -271,73 +244,37 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ### 🔹 Architecture-driven
 
-* Lei, C.  
-  *Shape from Polarization for Complex Scenes in the Wild.*  
-  CVPR, 2022.  
-  [Paper](https://arxiv.org/abs/2203.03960) | [Code]
+* Lei, C.    *Shape from Polarization for Complex Scenes in the Wild.*    CVPR, 2022.    [Paper](https://arxiv.org/abs/2203.03960) | [Code]
 
-* Huang, T.  
-  *Learning Accurate 3D Shape Based on Stereo Polarimetric Imaging.*  
-  CVPR, 2023.  
-  [Paper] | [Code]
+* Huang, T.    *Learning Accurate 3D Shape Based on Stereo Polarimetric Imaging.*    CVPR, 2023.    [Paper] | [Code]
 
-* Peng, Y.  
-  *Multi-receptive Field Interaction Network for Shape from Polarization.*  
-  SCIENCE CHINA Information Sciences, 2025.  
-  [Paper] | [Code]
+* Peng, Y.    *Multi-receptive Field Interaction Network for Shape from Polarization.*    SCIENCE CHINA Information Sciences, 2025.    [Paper] | [Code]
 
-* Wu, X.  
-  *Deep Learning-based Polarization 3D Imaging Method for Underwater Targets.*  
-  Optics Express, 2025.  
-  [Paper] | [Code]
+* Wu, X.    *Deep Learning-based Polarization 3D Imaging Method for Underwater Targets.*    Optics Express, 2025.    [Paper] | [Code]
 
-* Li, K.
-  *SfP-underwater: Attention-based Shape from Polarization for Underwater Scattering Environments.*  
-  Optics and Laser Technology, 2025.  
-  [Paper] | [Code]
+* Li, K.  *SfP-underwater: Attention-based Shape from Polarization for Underwater Scattering Environments.*    Optics and Laser Technology, 2025.    [Paper] | [Code]
 
 ---
 
 ### 🔹 Multi-stage Learning
 
-* Li, X.  
-  *Multi-target Distortion Correction in 3D Shape from Polarization Using Deep Neural Networks.*  
-  Optics Letters, 2023.  
-  [Paper] | [Code]
+* Li, X.    *Multi-target Distortion Correction in 3D Shape from Polarization Using Deep Neural Networks.*    Optics Letters, 2023.    [Paper] | [Code]
 
-* Li, C.  
-  *Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation.*  
-  ECCV (arXiv), 2024.  
-  [Paper](https://arxiv.org/abs/2407.08149) | [Code]
+* Li, C.  *Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation.*    ECCV (arXiv), 2024.    [Paper](https://arxiv.org/abs/2407.08149) | [Code]
 
 ---
 
 ## 2.3 Multimodal Learning
 
-* Tian, C.  
-  *DPS-Net: Deep Polarimetric Stereo Depth Estimation.*  
-  ICCV, 2023.  
-  [Paper] | [Code]
+* Tian, C.    *DPS-Net: Deep Polarimetric Stereo Depth Estimation.*    ICCV, 2023.    [Paper] | [Code]
 
-* Muglikar, M.
-  *Event-based Shape from Polarization.*  
-  CVPR, 2023.  
-  [Paper](https://arxiv.org/abs/2301.06855) | [Code]
+* Muglikar, M.  *Event-based Shape from Polarization.*    CVPR, 2023.  [Paper](https://arxiv.org/abs/2301.06855) | [Code]
 
-* Ikemura, K.  
-  *Robust Depth Enhancement via Polarization Prompt Fusion Tuning.*  
-  arXiv, 2024.  
-  [Paper](https://arxiv.org/abs/2404.04318) | [Code]
+* Ikemura, K.   *Robust Depth Enhancement via Polarization Prompt Fusion Tuning.*    arXiv, 2024.    [Paper](https://arxiv.org/abs/2404.04318) | [Code]
 
-* Scheuble, D.  
-  *Polarization Wavefront LiDAR.*  
-  CVPR, 2024.  
-  [Paper] | [Code]
+* Scheuble, D.    *Polarization Wavefront LiDAR.*    CVPR, 2024.    [Paper] | [Code]
 
-* Tian, X.  
-  *High Quality 3D Reconstruction Based on Fusion of Polarization Imaging and Binocular Stereo Vision.*  
-  Information Fusion, 2022.  
-  [Paper] | [Code]
+* Tian, X.    *High Quality 3D Reconstruction Based on Fusion of Polarization Imaging and Binocular Stereo Vision.*    Information Fusion, 2022.    [Paper] | [Code]
   
 ---
 
