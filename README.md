@@ -68,8 +68,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   CVPR, 2023.
   [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ichikawa_Fresnel_Microfacet_BRDF_CVPR_2023_paper.html) | [Code]
 
-
-  * Mao, Y.
+* Mao, Y.
   *3D Surface Reconstruction Based on Polarization Modulation Microscopy.*
   IEEE Photonics Journal, 2023.
   [Paper](https://ieeexplore.ieee.org/document/10041441) | [Code]
@@ -309,6 +308,12 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   [Paper] | [Code]
 
 
+* Cao, X.
+  *Multi-view azimuth stereo via tangent space consistency.*
+  2023.
+  [Paper] | [Code]
+  
+
 
 * Li, Y.
   *GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects.*
@@ -316,6 +321,10 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   [Paper](https://arxiv.org/abs/2403.11899) | [Code]
 
 
+* Cao, J.
+  *NeRF-based polarimetric multi-view stereo.*
+  Pattern Recognition, 2025.
+  [Paper] | [Code]
 
 
 ## 3.3 Hybrid polarization implicit reconstruction
@@ -328,12 +337,6 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 
 
-* Cao, X.
-  *Multi-view azimuth stereo via tangent space consistency.*
-  2023.
-  [Paper] | [Code]
-  
-
 
 
 * Li, C.
@@ -342,10 +345,6 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   [Paper](https://arxiv.org/abs/2411.10189) | [Code]
 
   
-* Cao, J.
-  *NeRF-based polarimetric multi-view stereo.*
-  Pattern Recognition, 2025.
-  [Paper] | [Code]
 
 
 ---
