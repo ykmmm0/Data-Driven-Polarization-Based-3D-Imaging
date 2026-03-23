@@ -40,6 +40,13 @@ Methods that leverage learning-based frameworks:
 
 ---
 
+### 🟣 Neural Implicit Methods
+
+* **Neural implicit reconstruction**
+  Uses implicit neural representations (e.g., NeRF/SDF) for joint geometry and appearance reconstruction
+
+---
+
 📌 **Note:**
 Some methods may involve multiple cues (e.g., reflectance + geometry), but each method is categorized according to its **dominant modeling principle** to avoid ambiguity.
 
@@ -249,7 +256,9 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ---
 
-## 2.3 Neural Implicit Reconstruction
+# 🟣 3. Neural Implicit Reconstruction
+
+## 3.1 Neural Implicit Methods
 
 * Dave, A.
   *PANDORA: Polarization-Aided Neural Decomposition of Radiance.*
@@ -290,5 +299,8 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   *Ref-NeuS: Neural Implicit Surface Learning with Reflection.*
   ICCV, 2023.
   [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ge_Ref-NeuS_ICCV_2023_paper.html) | [Code]
+
+---
+
 
 ---
