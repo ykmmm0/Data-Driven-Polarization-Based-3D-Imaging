@@ -173,7 +173,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Wang, J.
   *3D imaging of complex specular surfaces by fusing polarimetric and deflectometric information*
   Optica, 2025.
-  [Paper]([https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-4-446](https://doi.org/10.1364/OPTICA.538331)) | [Code]
+  [Paper](https://doi.org/10.1364/OPTICA.538331)) | [Code]
 
 ---
 
