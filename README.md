@@ -42,12 +42,12 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Rahmann, S.
   *Reconstruction of Specular Surfaces Using Polarization Imaging.*
   CVPR, 2001.
-  [Paper](https://ieeexplore.ieee.org/document/990546) | [Code]
+  [Paper](https://ieeexplore.ieee.org/document/990468) | [Code]
 
 * Miyazaki, T.
   *Polarization-based Inverse Rendering from a Single View.*
   ICCV, 2003.
-  [Paper](https://ieeexplore.ieee.org/document/1238663) | [Code]
+  [Paper](https://ieeexplore.ieee.org/document/1238455) | [Code]
 
 * Cui, Z.
   *Polarimetric Multi-View Stereo.*
@@ -57,35 +57,35 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Taamazyan, V.
   *Shape from Mixed Polarization.*
   Computer Optics, 2018.
-  [Paper](https://arxiv.org/abs/1803.09712) | [Code]
+  [Paper](https://arxiv.org/abs/1605.02066) | [Code]
 
 ---
 
 ### Micro-scale reflection modeling
 
 * Ichikawa, T.
-  *Fresnel Microfacet BRDF: Unification of Polari-Radiometric Reflection.*
+  *Fresnel microfacet BRDF: Unification of polari-radiometric surface-body reflection.*
   CVPR, 2023.
-  [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ichikawa_Fresnel_Microfacet_BRDF_CVPR_2023_paper.html) | [Code]
+  [Paper](https://arxiv.org/abs/2212.04483) | [Code]
 
 * Mao, Y.
-  *3D Surface Reconstruction Based on Polarization Modulation Microscopy.*
+  *3D Surface Reconstruction Method for Microsamples Based on Polarization Modulation Microscopy.*
   IEEE Photonics Journal, 2023.
-  [Paper](https://ieeexplore.ieee.org/document/10041441) | [Code]
+  [Paper](https://ieeexplore.ieee.org/document/9939078) | [Code]
 
 
 
 * McKenna, L.
-  *Unambiguous Shape from Polarization for Mueller Imaging.*
+  *Demonstrating unambiguous shape from polarization for Mueller imaging.*
   Optics Express, 2025.
-  [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-14-30418) | [Code]
+  [Paper]([https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-14-30418](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-14-30418)) | [Code]
 
 
 
 * Hwang, I.
   *Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape.*
   ACM TOG, 2022.
-  [Paper](https://dl.acm.org/doi/10.1145/3528223.3530106) | [Code]
+  [Paper](https://arxiv.org/abs/2207.04236) | [Code]
 
   
 
@@ -99,14 +99,14 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Ichikawa_Shape_From_Sky_CVPR_2021_paper.html) | [Code]
 
 * Li, X.
-  *Near-Infrared Monocular 3D Polarization Imaging for Nonuniform Reflectance.*
+  *Near-infrared monocular 3D computational polarization imaging of surfaces exhibiting nonuniform reflectance.*
   Optics Express, 2021.
   [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-10-15616) | [Code]
 
 * Han, P.
-  *Computational Polarization 3D Imaging in Natural Conditions.*
+  *Computational polarization 3D: New solution for monocular shape recovery in natural conditions.*
   Optics and Lasers in Engineering, 2022.
-  [Paper](https://www.sciencedirect.com/science/article/pii/S0143816622000715) | [Code]
+  [Paper](https://doi.org/10.1016/j.optlaseng.2021.106925) | [Code]
 
 
 
@@ -116,14 +116,14 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 ## Geometric-prior Modeling
 
 * Han, P.
-  *Accurate Passive 3D Polarization Face Reconstruction Under Complex Conditions.*
+  *Accurate Passive 3D Polarization Face Reconstruction under Complex Conditions Assisted with Deep Learning.*
   Photonics, 2022.
   [Paper](https://www.mdpi.com/2304-6732/9/12/924) | [Code]
 
 * Cai, Y.
-  *Enhancing Polarization 3D Facial Imaging: Overcoming Azimuth Ambiguity.*
+  *Enhancing polarization 3D facial imaging: overcoming azimuth ambiguity without extra depth devices.*
   Optics Express, 2023.
-  [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-26-43891) | [Code]
+  [Paper]([https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-26-43891](https://doi.org/10.1364/OE.505074)) | [Code]
 
 * Azinović, D.
   *High-Resolution Facial Appearance Capture from Polarized Smartphone Images.*
@@ -131,15 +131,15 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Azinovic_High-Resolution_Facial_Appearance_Capture_From_Polarized_Smartphone_Images_CVPR_2023_paper.html) | [Code]
 
 * Li, X.
-  *Monocular Polarized 3D Absolute Depth Reconstruction Technology.*
+  *Monocular polarized three-dimensional absolute depth reconstruction technology for multi-target scenes.*
   Applied Optics, 2023.
-  [Paper](https://opg.optica.org/ao/fulltext.cfm?uri=ao-62-21-5627) | [Code]
+  [Paper](https://doi.org/10.1364/AO.490003) | [Code]
 
 
 * Ngo, T.
-  *Surface Normals and Light Directions from Shading and Polarization.*
+  *Surface Normals and Light Directions From Shading and Polarization.*
   TPAMI, 2021.
-  [Paper](https://ieeexplore.ieee.org/document/9191173) | [Code]
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9403910) | [Code]
 
 
 ---
@@ -151,27 +151,27 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Lu, J.
   *Mirror Surface Reconstruction Using Polarization Field.*
   ICCP, 2019.
-  [Paper](https://ieeexplore.ieee.org/document/8792177) | [Code]
+  [Paper](https://ieeexplore.ieee.org/document/8747335) | [Code]
 
 * Ding, Y.
   *Polar-Photometric Stereo Under Natural Illumination.*
   3DV, 2022.
-  [Paper](https://ieeexplore.ieee.org/document/10044059) | [Code]
+  [Paper](https://ieeexplore.ieee.org/document/10044442) | [Code]
 
 * Liu, R.
   *Fusion-based High-quality Polarization 3D Reconstruction.*
   Optics and Lasers in Engineering, 2023.
-  [Paper](https://www.sciencedirect.com/science/article/pii/S0143816622003170) | [Code]
+  [Paper](https://www.sciencedirect.com/science/article/pii/S014381662200447X) | [Code]
 
 * Shen, Z.
-  *Extended Monocular 3D Imaging via Diffraction and Polarization Fusion.*
+  *Extended monocular 3D imaging via the fusion of diffraction-and polarization-based depth cues.*
   Optica, 2025.
-  [Paper](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-6-872) | [Code]
+  [Paper](https://doi.org/10.1364/OPTICA.560166) | [Code]
 
 * Wang, J.
-  *3D Imaging of Complex Specular Surfaces by Polarimetric Fusion.*
+  *3D imaging of complex specular surfaces by fusing polarimetric and deflectometric information*
   Optica, 2025.
-  [Paper](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-4-446) | [Code]
+  [Paper]([https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-4-446](https://doi.org/10.1364/OPTICA.538331)) | [Code]
 
 ---
 
@@ -183,19 +183,19 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Fukao_Polarimetric_Normal_Stereo_CVPR_2021_paper.html) | [Code]
 
 * Tian, X.
-  *High-quality 3D Reconstruction via Polarization and Stereo Fusion.*
+  *High quality 3D reconstruction based on fusion of polarization imaging and binocular stereo vision*
   Information Fusion, 2022.
-  [Paper](https://www.sciencedirect.com/science/article/pii/S156625352100176X) | [Code]
+  [Paper](https://doi.org/10.1016/j.inffus.2021.07.002) | [Code]
 
 * Ding, Y.
   *Polarimetric Helmholtz Stereopsis.*
   TPAMI, 2024.
-  [Paper](https://ieeexplore.ieee.org/document/10304320) | [Code]
+  [Paper](openaccess.thecvf.com/content/ICCV2021/html/Ding_Polarimetric_Helmholtz_Stereopsis_ICCV_2021_paper.html) | [Code]| [Data](https://polarhs.github.io/)
 
 * Chen, G.
   *Perspective Phase Angle Model for Polarimetric 3D Reconstruction.*
   ECCV, 2022.
-  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20062-5_23) | [Code]
+  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_23) | [Code]
 
 ---
 
@@ -205,28 +205,28 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ### Normal-prior-guided learning 
 
-* Ba, Y.  *Deep Shape from Polarization.*    ECCV, 2020.    [Paper](https://arxiv.org/abs/2007.10824) | [Code](https://github.com/ba-ying/deepsfp)
+* Ba, Y.  *Deep Shape from Polarization.*    ECCV, 2020.    [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_33) | [Code](https://github.com/UCLA-VMG/DeepSfP)
 
 * *Wu, X.  *Three Dimensional Shape Reconstruction via Polarization Imaging and Deep Learning.*    Sensors, 2023.    [Paper](https://www.mdpi.com/1424-8220/23/10/4592) | [Code]
 
 * Zou, S. 
-  *3D Human Shape Reconstruction from a Polarization Image.*    ECCV, 2020.    [Paper](https://arxiv.org/abs/2008.02068) | [Code]
+  *3D Human Shape Reconstruction from a Polarization Image.*    ECCV, 2020.    [Paper](https://arxiv.org/abs/2007.09268) | [Code]
   
-* Zou, S.  *Human Pose and Shape Estimation from Polarization Images.*    IEEE TMM, 2023.    [Paper](https://ieeexplore.ieee.org/document/10006144) | [Code]
+* Zou, S.  *Human Pose and Shape Estimation from Polarization Images.*    IEEE TMM, 2023.    [Paper](https://ieeexplore.ieee.org/document/10006144) | [Code](https://github.com/JimmyZou/PolarHumanPoseShape)
 
 ### Physically-constrained learning methods
 
-* Deschaintre, V.  *Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition.*    CVPR, 2021.    [Paper](https://arxiv.org/abs/2104.00674) | [Code]
+* Deschaintre, V.  *Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition.*    CVPR, 2021.    [Paper](https://ieeexplore.ieee.org/document/9578508) | [Code]
 
-* Blanchon, M.   *P2D: A Self-supervised Method for Depth Estimation from Polarimetry.*    ICPR, 2021.    [Paper](https://arxiv.org/abs/2011.13239) | [Code]
+* Blanchon, M.   *P2D: A Self-supervised Method for Depth Estimation from Polarimetry.*    ICPR, 2021.    [Paper](https://arxiv.org/pdf/2007.07567) | [Code]
 
-* Shao, M.  *Transparent Shape from a Single View Polarization Image.*    ICCV, 2023.  [Paper] | [Code]
+* Shao, M.  *Transparent Shape from a Single View Polarization Image.*    ICCV, 2023.  [Paper](https://arxiv.org/abs/2204.06331) | [Code](https://github.com/shaomq2187/TransSfP)
 
-* Wang, B.   *Shape from Polarization via a Physical Prior-based Deep Fusion Network with Ambiguous Surface Normals.*    Optics Express, 2025.    [Paper] | [Code]
+* Wang, B.   *Shape from Polarization via a Physical Prior-based Deep Fusion Network with Ambiguous Surface Normals.*    Optics Express, 2025.    [Paper](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-33-14-29255&html=true) | [Code](https://github.com/singobl/CGA-Transformer)
 
-* Liu, R.    *Fusion-based High-quality Polarization 3D Reconstruction.*    Optics and Lasers in Engineering, 2023.    [Paper] | [Code]
+* Liu, R.    *Physical prior-guided deep fusion network with shading cues for shape from polarization.*    Information Fusion, 2025.    [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005839) | [Code](https://github.com/Andray1017/SfPSNet)
 
-* Guo, H.    *SfPUEL: Shape from Polarization under Unknown Environment Light.*    NeurIPS, 2024.    [Paper] | [Code]
+* Guo, H.    *SfPUEL: Shape from Polarization under Unknown Environment Light.*    NeurIPS, 2024.    [Paper](https://neurips.cc/media/neurips-2024/Slides/93377.pdf) | [Code](https://github.com/YouweiLyu/SfPUEL)
 
 ---
 
@@ -234,7 +234,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ### 🔹 Architecture-driven
 
-* Lei, C.    *Shape from Polarization for Complex Scenes in the Wild.*    CVPR, 2022.    [Paper](https://arxiv.org/abs/2203.03960) | [Code]
+* Lei, C.    *Shape from Polarization for Complex Scenes in the Wild.*    CVPR, 2022.    [Paper](https://arxiv.org/abs/2112.11377) | [Code](https://arxiv.org/abs/2112.11377)
 
 * Huang, T.    *Learning Accurate 3D Shape Based on Stereo Polarimetric Imaging.*    CVPR, 2023.    [Paper] | [Code]
 
