@@ -217,52 +217,52 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ## 2.1 Physics-informed Learning
 
-* **Ba, Y.**  
+* Ba, Y.  
   *Deep Shape from Polarization.*  
   ECCV, 2020.  
   [Paper](https://arxiv.org/abs/2007.10824) | [Code](https://github.com/ba-ying/deepsfp)
 
-* **Wu, X.**  
+* *Wu, X.
   *Three Dimensional Shape Reconstruction via Polarization Imaging and Deep Learning.*  
   Sensors, 2023.  
   [Paper](https://www.mdpi.com/1424-8220/23/10/4592) | [Code]
 
-* **Zou, S.**  
+* Zou, S. 
   *3D Human Shape Reconstruction from a Polarization Image.*  
   ECCV, 2020.  
   [Paper](https://arxiv.org/abs/2008.02068) | [Code]
 
-* **Zou, S.**  
+* Zou, S.
   *Human Pose and Shape Estimation from Polarization Images.*  
   IEEE TMM, 2023.  
   [Paper](https://ieeexplore.ieee.org/document/10006144) | [Code]
 
-* **Deschaintre, V.**  
+* Deschaintre, V.  
   *Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition.*  
   CVPR, 2021.  
   [Paper](https://arxiv.org/abs/2104.00674) | [Code]
 
-* **Blanchon, M.**  
+* Blanchon, M. 
   *P2D: A Self-supervised Method for Depth Estimation from Polarimetry.*  
   ICPR, 2021.  
   [Paper](https://arxiv.org/abs/2011.13239) | [Code]
 
-* **Shao, M.**  
+* Shao, M. 
   *Transparent Shape from a Single View Polarization Image.*  
   ICCV, 2023.  
   [Paper] | [Code]
 
-* **Wang, B.**  
+* Wang, B. 
   *Shape from Polarization via a Physical Prior-based Deep Fusion Network with Ambiguous Surface Normals.*  
   Optics Express, 2025.  
   [Paper] | [Code]
 
-* **Liu, R.**  
+* Liu, R.  
   *Fusion-based High-quality Polarization 3D Reconstruction.*  
   Optics and Lasers in Engineering, 2023.  
   [Paper] | [Code]
 
-* **Guo, H.**  
+* Guo, H.  
   *SfPUEL: Shape from Polarization under Unknown Environment Light.*  
   NeurIPS, 2024.  
   [Paper] | [Code]
@@ -273,27 +273,27 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ### 🔹 Architecture-driven
 
-* **Lei, C.**  
+* Lei, C.  
   *Shape from Polarization for Complex Scenes in the Wild.*  
   CVPR, 2022.  
   [Paper](https://arxiv.org/abs/2203.03960) | [Code]
 
-* **Huang, T.**  
+* Huang, T.  
   *Learning Accurate 3D Shape Based on Stereo Polarimetric Imaging.*  
   CVPR, 2023.  
   [Paper] | [Code]
 
-* **Peng, Y.**  
+* Peng, Y.  
   *Multi-receptive Field Interaction Network for Shape from Polarization.*  
   SCIENCE CHINA Information Sciences, 2025.  
   [Paper] | [Code]
 
-* **Wu, X.**  
+* Wu, X.  
   *Deep Learning-based Polarization 3D Imaging Method for Underwater Targets.*  
   Optics Express, 2025.  
   [Paper] | [Code]
 
-* **Li, K.**  
+* Li, K.
   *SfP-underwater: Attention-based Shape from Polarization for Underwater Scattering Environments.*  
   Optics and Laser Technology, 2025.  
   [Paper] | [Code]
@@ -302,12 +302,12 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ### 🔹 Multi-stage Learning
 
-* **Li, X.**  
+* Li, X.  
   *Multi-target Distortion Correction in 3D Shape from Polarization Using Deep Neural Networks.*  
   Optics Letters, 2023.  
   [Paper] | [Code]
 
-* **Li, C.**  
+* Li, C.  
   *Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation.*  
   ECCV (arXiv), 2024.  
   [Paper](https://arxiv.org/abs/2407.08149) | [Code]
@@ -316,27 +316,27 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ## 2.3 Multimodal Learning
 
-* **Tian, C.**  
+* Tian, C.  
   *DPS-Net: Deep Polarimetric Stereo Depth Estimation.*  
   ICCV, 2023.  
   [Paper] | [Code]
 
-* **Muglikar, M.**  
+* Muglikar, M.
   *Event-based Shape from Polarization.*  
   CVPR, 2023.  
   [Paper](https://arxiv.org/abs/2301.06855) | [Code]
 
-* **Ikemura, K.**  
+* Ikemura, K.  
   *Robust Depth Enhancement via Polarization Prompt Fusion Tuning.*  
   arXiv, 2024.  
   [Paper](https://arxiv.org/abs/2404.04318) | [Code]
 
-* **Scheuble, D.**  
+* Scheuble, D.  
   *Polarization Wavefront LiDAR.*  
   CVPR, 2024.  
   [Paper] | [Code]
 
-* **Tian, X.**  
+* Tian, X.  
   *High Quality 3D Reconstruction Based on Fusion of Polarization Imaging and Binocular Stereo Vision.*  
   Information Fusion, 2022.  
   [Paper] | [Code]
@@ -346,7 +346,6 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 # 🟣 3. Neural Implicit Reconstruction
 
-## 3.1 Neural Implicit Methods
 
 * Dave, A.
   *PANDORA: Polarization-Aided Neural Decomposition of Radiance.*
