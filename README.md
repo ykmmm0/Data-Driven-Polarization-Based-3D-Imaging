@@ -1,6 +1,20 @@
 # Polarization-based 3D Imaging: Paper Collection
 
 ---
+📌 Taxonomy Overview
+
+We categorize methods based on the dominant source of constraints:
+
+Physics-based methods
+Reflectance-driven modeling
+Photometric-constrained modeling
+Geometric-prior modeling
+Physics-guided sensing fusion
+Data-driven methods
+Physics-informed learning
+Pure learning-based methods
+Neural implicit reconstruction
+
 
 # 🔵 1. Physics-based Methods
 
