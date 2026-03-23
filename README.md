@@ -25,8 +25,10 @@ We categorize existing methods based on the **dominant source of constraints**, 
 
 ### 🟣 Neural Implicit Methods
 
-* **Neural implicit reconstruction**
-  Uses implicit neural representations (e.g., NeRF/SDF) for joint geometry and appearance reconstruction
+* **Photometry-based polarization implicit reconstruction**
+* **Geometry-based polarization implicit reconstruction**
+* **Hybrid polarization implicit reconstruction**
+
 
 ---
 
