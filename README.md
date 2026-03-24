@@ -5,6 +5,8 @@
 
 ## 📌 Taxonomy Overview
 
+![Taxonomy Overview](./assets/taxonomy.png)
+
 We categorize existing methods based on the **dominant source of constraints**, ensuring a consistent and non-overlapping classification across different paradigms.
 
 ### 🔵 Physics-based Methods
