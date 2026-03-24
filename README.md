@@ -23,7 +23,7 @@ We categorize existing methods based on the **dominant source of constraints**, 
 
 ---
 
-### 🟣 Neural Implicit Methods
+### 🟣 Polarization Neural Implicit Methods
 
 * **Photometry-based polarization implicit reconstruction**
 * **Geometry-based polarization implicit reconstruction**
@@ -271,7 +271,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 ---
 
 
-# 🟣 3. Neural Implicit Reconstruction
+# 🟣 3. Polarization Neural Implicit Reconstruction
 
 
 ## 3.1 Photometry-based polarization implicit reconstruction
