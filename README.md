@@ -5,7 +5,7 @@
 
 ## 📌 Taxonomy Overview
 
-![Taxonomy Overview](./assets/taxonomy.png)
+![Taxonomy Overview](./assets/flow.png)
 
 We categorize existing methods based on the **dominant source of constraints**, ensuring a consistent and non-overlapping classification across different paradigms.
 
