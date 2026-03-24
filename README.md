@@ -18,7 +18,7 @@ We categorize existing methods based on the **dominant source of constraints**, 
 ### 🟢 Data-driven Methods
 
 * **Physics-informed Learning**
-* **Learning-based Polarization 3D Imaging**
+* **Architecture-driven learning**
 * **Multimodal Learning**
 
 ---
@@ -232,9 +232,9 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 ---
 
-## 2.2 Learning-based Polarization 3D Imaging
+## 2.2 Architecture-driven learning
 
-### 🔹 Architecture-driven
+### 🔹 Network design and representation learning 
 
 * Lei, C.    *Shape from Polarization for Complex Scenes in the Wild.*    CVPR, 2022.    [Paper](https://arxiv.org/abs/2112.11377) | [Code](https://arxiv.org/abs/2112.11377)
 
