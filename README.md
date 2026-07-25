@@ -410,7 +410,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 * Wu, J.
   *PhyGaP: Physically-Grounded Gaussians with Polarization Cues.*
   CVPR, 2026.
-  [Paper](https://arxiv.org/abs/2603.14001) | [Project](https://kelvar00.github.io/PhyGaP/) | [Code: coming soon](https://kelvar00.github.io/PhyGaP/)
+  [Paper](https://arxiv.org/abs/2603.14001) | [Project](https://kelvar00.github.io/PhyGaP/) | [Code](https://kelvar00.github.io/PhyGaP/)
 
 
 * Han, Y.
