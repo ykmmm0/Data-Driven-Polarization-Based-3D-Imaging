@@ -404,7 +404,7 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   [Paper](https://arxiv.org/abs/2411.10189) | [Code](https://github.com/sony/NeISFpp)
 
 
-# 🟠 4. Polarization-guided Gaussian Splatting
+## Polarization-guided Gaussian Splatting
 
 
 * Wu, J.
