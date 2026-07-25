@@ -301,6 +301,11 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 * Li, C.  *Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation.*    ECCV (arXiv), 2024.    [Paper](https://arxiv.org/abs/2407.08149) | [Code](https://github.com/ligoudaner377/polarized_inverse_scattering)
 
+* Shen, H.
+  *Polarization-Conditioned Diffusion Model for Shape from Polarization.*
+  Optics Express, 2026.
+  [Paper](https://doi.org/10.1364/OE.601777) | [Code]
+  
 ---
 
 ## 2.3 Multimodal Learning
@@ -320,7 +325,12 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 # 🟣 3. Polarization Neural Implicit Reconstruction
 
-
+## Related Neural-field Optimization
+ * Zhuang, Y.
+  *A Simple and Effective Filtering Scheme for Improving Neural Fields.*
+  Computational Visual Media, 2025.
+  [Paper](https://arxiv.org/abs/2201.13013) | [Code](https://github.com/yixin26/FINN)
+ 
 ## 3.1 Photometry-based polarization implicit reconstruction
 
 * Dave, A.
@@ -393,7 +403,38 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   2025.
   [Paper](https://arxiv.org/abs/2411.10189) | [Code](https://github.com/sony/NeISFpp)
 
-  
+
+# 🟠 4. Polarization-guided Gaussian Splatting
+
+
+* Wu, J.
+  *PhyGaP: Physically-Grounded Gaussians with Polarization Cues.*
+  CVPR, 2026.
+  [Paper](https://arxiv.org/abs/2603.14001) | [Project](https://kelvar00.github.io/PhyGaP/) | [Code: coming soon](https://kelvar00.github.io/PhyGaP/)
+
+
+* Han, Y.
+  *PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction.*
+  ICCV, 2025.
+  [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Han_PolGS_Polarimetric_Gaussian_Splatting_for_Fast_Reflective_Surface_Reconstruction_ICCV_2025_paper.html) | [Project](https://yu-fei-han.github.io/polgs/) | [Code](https://github.com/PRIS-CV/PolGS)
+
+
+* Han, Y.
+  *PolGS++: Physically-Guided Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction.*
+  arXiv, 2026.
+  [Paper](https://arxiv.org/abs/2603.10801) | [Code]
+
+
+* Guo, B.
+  *PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery.*
+  arXiv, 2025.
+  [Paper](https://arxiv.org/abs/2512.00794) | [Code]
+
+
+* Shan, D.
+  *PolarGuide-GSDR: 3D Gaussian Splatting Driven by Polarization Priors and Deferred Reflection for Real-World Reflective Scenes.*
+  CVPR, 2026.
+  [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Shan_PolarGuide-GSDR_3D_Gaussian_Splatting_Driven_by_Polarization_Priors_and_Deferred_CVPR_2026_paper.html) | [arXiv](https://arxiv.org/abs/2512.02664) | [Code]
 
 
 ---
