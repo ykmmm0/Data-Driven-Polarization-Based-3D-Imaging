@@ -149,16 +149,11 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   *Reducing Prior Dependence in Shape from Polarization via Ambiguous Gradient Analysis.*
   Optics Express, 2026.
   [Paper](https://doi.org/10.1364/OE.595941) | [Code]
-  - Uses regional ambiguous-gradient analysis and geometric constraints to reduce
-    dependence on high-constraint priors while supporting mixed
-    specular–diffuse surfaces.
 
 * Zhang, J.
   *Segmentation-Driven Monocular Shape from Polarization Based on Physical Model.*
   arXiv, 2026.
   [Paper](https://arxiv.org/abs/2601.04776) | [Code]
-  - Introduces SMSfP, which decomposes a global convexity assumption into
-    adaptively segmented locally convex regions to suppress azimuth ambiguity.
 
 ---
 
@@ -215,6 +210,18 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   ECCV, 2022.
   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_23) | [Code]
 
+* Zhu, J.
+  *High-Quality Polarization 3D Reconstruction of Weakly Textured Objects by Fusing Multi-View Images.*
+  Optics Express, 2025.
+  [Paper](https://doi.org/10.1364/OE.570825) | [Code]
+
+
+* Song, S.
+  *A Polarimetric Information-Driven 3-D Imaging Framework for Complex Urban Scenes.*
+  IEEE Transactions on Geoscience and Remote Sensing, 2025.
+  [Paper](https://doi.org/10.1109/TGRS.2025.3624557) | [Code]
+
+
 ---
 
 # 🟢 2. Data-driven Methods
@@ -262,6 +269,30 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
 
 * Li, K.  *SfP-underwater: Attention-based Shape from Polarization for Underwater Scattering Environments.*    Optics and Laser Technology, 2025.    [Paper](https://www.sciencedirect.com/science/article/pii/S0030399225011363) | [Code]
 
+* Ma, Z.
+  *MPFF: A Multi-Scale Polarization Fusion Framework for Shape from Polarization.*
+  Optics & Laser Technology, 2025.
+  [Paper](https://doi.org/10.1016/j.optlastec.2025.113253) | [Code]
+
+
+* Wan, Z.
+  *Shape from Polarization Based on a Polarization Representation and Sparse Self-Attention.*
+  Optics Express, 2026.
+  [Paper](https://doi.org/10.1364/OE.584588) | [Code]
+
+
+* Li, H.
+  *Shape from a Polarization Network Based on Multi-Dimensional Polarization Perception and Global Implicit Neural Representation.*
+  Chinese Optics Letters, 2026.
+  [Paper](https://doi.org/10.3788/COL202624.051101) | [Code]
+
+
+* Yu, K.
+  *Structure-Aware Consistency Priors for Shape from Polarization in Complex Media.*
+  ICML2026, 2026.
+  [Paper](https://arxiv.org/abs/2606.00509) | [Code]
+
+    
 ---
 
 ###  Multi-stage Learning
