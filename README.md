@@ -144,7 +144,21 @@ Some methods may involve multiple cues (e.g., reflectance + geometry), but each 
   *Surface Normals and Light Directions From Shading and Polarization.*
   TPAMI, 2021.
   [Paper](https://ieeexplore.ieee.org/abstract/document/9403910) | [Code]
+  
+* Liu, Z.
+  *Reducing Prior Dependence in Shape from Polarization via Ambiguous Gradient Analysis.*
+  Optics Express, 2026.
+  [Paper](https://doi.org/10.1364/OE.595941) | [Code]
+  - Uses regional ambiguous-gradient analysis and geometric constraints to reduce
+    dependence on high-constraint priors while supporting mixed
+    specular–diffuse surfaces.
 
+* Zhang, J.
+  *Segmentation-Driven Monocular Shape from Polarization Based on Physical Model.*
+  arXiv, 2026.
+  [Paper](https://arxiv.org/abs/2601.04776) | [Code]
+  - Introduces SMSfP, which decomposes a global convexity assumption into
+    adaptively segmented locally convex regions to suppress azimuth ambiguity.
 
 ---
 
