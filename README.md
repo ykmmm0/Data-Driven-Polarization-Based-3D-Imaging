@@ -3,6 +3,14 @@
 ---
 
 
+<div align="center">
+
+[English](./README.md) | [中文](./README_zh.md)
+
+</div>
+
+---
+
 ## 📌 Taxonomy Overview
 
 ![Taxonomy Overview](./assets/flow.png)
